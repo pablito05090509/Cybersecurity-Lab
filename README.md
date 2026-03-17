@@ -1,17 +1,24 @@
-# 🛡️ Cybersecurity & Defense Lab
+🛡️ Cybersecurity Lab - Blue Team Project
 
-Proyecto de despliegue y monitorización de un entorno defensivo (Blue Team) utilizando SIEM, Firewalling y segmentación de red.
-## 🏗️ Arquitectura del Laboratorio
-- **Firewall:** pfSense (Segmentación de redes LAN, WAN y DMZ).
-- **SIEM:** Wazuh (Monitorización de eventos y detección de intrusiones).
-- **Endpoint:** Ubuntu Server (Hardenizado) y Windows 10 Pro.
-- **Virtualización:** Proxmox / VirtualBox.
+He diseñado y desplegado un laboratorio defensivo simulando un entorno empresarial real, enfocado en detección y respuesta ante incidentes.
 
-## 🚀 Implementaciones realizadas
-- [ ] Configuración de reglas de firewall (Mínimo privilegio).
-- [ ] Despliegue de agentes Wazuh en Linux/Windows.
-- [ ] Monitorización de ataques de fuerza bruta (SSH).
-- [ ] Hardening de servicios (SSH, políticas de contraseñas).
+🔍 Tecnologías utilizadas:
 
----
-*Proyecto realizado como parte del Máster en Ciberinteligencia - IES Ingeniero de la Cierva.*
+* SIEM: Wazuh
+* Firewall: pfSense
+* Sistemas: Ubuntu Server, Windows 10
+
+⚔️ Escenarios simulados:
+
+* Ataques de fuerza bruta SSH
+* Escaneo de red
+* Monitorización de integridad de archivos
+
+📊 Resultados:
+Detección en tiempo real de amenazas y aplicación de medidas de mitigación automatizadas.
+
+Este proyecto refleja mi enfoque hacia la ciberseguridad defensiva y mi interés en el análisis de amenazas.
+
+🔗 Repo: [pon tu GitHub]
+
+#Cybersecurity #BlueTeam #SIEM #Wazuh #pfSense #SOC
